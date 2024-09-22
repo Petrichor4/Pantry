@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+h1 {
+    font-family: Bandira Script Demo Regular;
+    color: #008DDC;
+    font-size: 64px;
+}
